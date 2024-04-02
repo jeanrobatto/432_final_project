@@ -1,3 +1,1 @@
-#package
-
-import hello_world
+print("(Custom helper lib) Hello, world!")
